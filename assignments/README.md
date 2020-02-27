@@ -14,8 +14,12 @@ Late submissions, will be penalized 25% a day after the due date.  No exceptions
 
 
 ## Assignment 2a (Group)
-[Link to A2](a2a.md)
+[Link to A2a](a2a.md)
 
 **Due Feb 19th**
 
+## Assignment 2b (Group)
+[Link to A2b](a2b.md)
+
+**Due Mar 12th**
 
